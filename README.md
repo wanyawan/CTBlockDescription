@@ -1,0 +1,7 @@
+# CTBlockDescription
+执行完class-dump之后，获得的头文件中所有的block都会写成CDUnknownBlockType
+使用CTBlockDescription就可以打印出block的参数了
+
+
+
+
